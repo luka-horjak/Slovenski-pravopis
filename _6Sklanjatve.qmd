@@ -1,0 +1,36 @@
+# Oblikoslovje: Moške sklanjatve
+
+Pravopisno podpoglavje **Oblikoslovje** (§ 746–873).
+
+## Moške sklanjatve
+
+### 1. moška sklanjatev
+
+#### Krajšanje osnove zaradi neobstojnega samoglasnika
+
+**1. Samo pisno krajšanje.** Na koncu osnove izginja nemi samoglasnik, ki **ne odloča** o izgovoru pred njim stoječih črk za glasove č ž š dž in s (pisanega s c): *Wilde* *Wilda*, *Corneille* *Corneilla*, *Laforgue* *Laforgua* (prim. še *Kaye* *Kaya*) proti *Wallace* *Wallacea*, *George* *Georgea* (*e* za *c* oz. *g* namreč varuje izgovor črke *c* kot *s* oz. *g* kot *dž*) (§ 772).
+
+- Osnove pisno krajšamo tudi v primeru, ko nemi samoglasnik preprečuje nosni izgovor zveze **samoglasnik + n ali m**: *Lamartine* *Lamartina* (§ 773).
+- Če takemu nememu samoglasniku (lahko tudi sklopu nemih samoglasnikov) **sledi še kakšen soglasnik**, osnove pri sklanjanju ne krajšamo, najsi ta soglasnik izgovarjamo ali ne: *James* *Jamesa*, *Holmes* *Holmesa*, *Hobbes* *Hobbesa*, *Jacques* *Jacquesa* (§ 774).
+
+**2. Samo glasovno krajšanje.** V primerih, ko polglasnika ne pišemo, ga pa v imenovalniku izgovarjamo (*žanər* *žanra*) ali lahko izgovarjamo *film* *filma* [fíləm fílma].
+
+**3. Pisno in glasovno krajšanje osnove** imamo v primerih tipa *posel* *posla* ali *sejem* *sejma*:
+
+- **Slovanski neobstojni samoglasniki ostanejo neobstojni tudi v slovenščini**, če temu ne nasprotuje izgovorljivost: *Muromec* *Muromca*, *Dudok* *Dudka*, *Zgorzelec* *Zgorzelca*, *Čapek* *Čapka*, *Kragujevac* *Kragujevca*, *Zadar* *Zadra*, *Čakovec* *Čakovca* (ne pa npr. *Lev* *\*Lva*, temveč *Lev* *Leva*).
+- **Neslovanski polglasnik** pred končnim soglasnikom ali soglasniškim sklopom pogosto obravnavamo kot polglasnik v navadnih slovenskih besedah: *Münster* *Münstra*, *München* *Münchna*, *Basel* *Basla*, *Webster* *Webstra*, *Russell* *Russlla*, *raster* *rastra* ipd. Včasih pa ga (navadno zaradi lažje izgovorljivosti) zamenjamo z *e* ali *o* in je kot tak obstojen: *Herder* *Herderja*, *Walter* *Walterja*. Oblike z govorjenim polglasnikom za pisani *o* (npr. *Nixon*, *Milton* = [níksən] …) niso priporočljive (prim. § 709); to velja tudi za podobne nordijske primere na *-sen* in *-son* (npr. *Andersen*, *Olafsson*; prim. § 716).
+
+#### Podaljšava z -j
+
+- Če se osnova samostalnika konča na *-r*, *-i*/*-í*, *-u*/*-ú*, *-ó*, *-á*, *-e*/*é* (če *-e* ni končnica): *Sever -ja*; *Schiller -ja*; *Galilei -ja*; *Nehru -ja*, *Rousseau -ja*, *Curie -ja*; *Arne -ja*, *Zola -ja*.
+- Tudi nekateri samostalniki na *r + nemi e*, posebno francoski, glede daljšanja osnove omahujejo: *Tesnière Tesnièrja*/*Tesnièra*, *Shakespeare* *Shakespearja*/*Shakespeara*.
+- Če pisni dvoglasnik zaznamuje en sam govorjeni samoglasnik, se za takim *i* ali *y* piše **govorjeni j**: *Disney* – *Disneyja*, *Quai* *d'Orsay* – *Quai d'Orsayja*; ne pa pri *Broadway – Broadwaya*.
+- Osnove prevzetih besed iz **grščine** in **latinščine**: *Eneas – Eneja*, *Menelaos – Menelaja*, *Ovidius – Ovidija*, *Sirmium – Sirmija*. Če imenovalnik podomačimo, mu osnovo podaljšamo z -j-: *Enej -a*.
+
+#### Orodnik
+
+- Za govorjenim *c j č ž š dž* se namesto *o* v končnici *-om* rabi *e*: *s Franzem*, *z Nestroyem*, *z Goyem*, *z Boccassiem*, *z Georgeem*.
+
+### 4. moška sklanjatev
+
+**4. moška (pridevniška) sklanjatev:** npr. *Koseski* – *Koseskega*. Po njej se sklanjajo priimki s slovensko podstavo na [-ski]: *Kreisky* – *Kreiskega*, *Vranitzky* – *Vranitzkega*, *Chomsky* – *Chomskega*, *Neweklowsky* – *Neweklowskega*.

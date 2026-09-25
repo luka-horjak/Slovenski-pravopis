@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Slovenski pravopis (pregled)"
+  author: "Luka Horjak"
+  date: "25 September 2026"
+  chapters:
+    - index.qmd
+    - _1Pravopis1.qmd
+    - _2Začetnica.qmd
+    - _3Ločila.qmd
+    - _4Kratice.qmd
+    - _5Pisanje.qmd
+    - _6Sklanjatve.qmd
+    - references.qmd
+  navbar:
+    background: success
+    title: "Slovenski pravopis (pregled)"
+    right:
+      - text: "Domov"
+        href: index.qmd
+
+  page-footer:
+    left: "© 2026 Luka Horjak"
+    right: '![](images\ul_ff-logover-rgb_barv.png){width=200px}'
+
+bibliography: references.bib
+csl: apa.csl
+
+lang: sl
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+  pdf:
+    documentclass: scrreprt
+
+
+

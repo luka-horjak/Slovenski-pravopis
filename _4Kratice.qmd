@@ -1,0 +1,27 @@
+# Krajšave: Kratice in okrajšave
+
+## Kratice
+
+**Kratíca** je beseda, ki je nastala s krnitvijo večbesednih zvez, npr. *OF* = *Osvobodilna fronta*, *TAM*/*Tam* = *Tovarna avtomobilov Maribor*. Lahko se izgubi občutek za kratičnost, npr. *laser* (= angl. *Light Amplification by Stimulated Emission of Radiation*) [@toporisic_enciklopedija_1992, 89]. Dele kratice običajno zapisujemo z velikimi tiskanimi črkami, redko tudi z malimi, npr. *BiH*.
+
+Beremo in izgovarjamo jih kot druge besede, npr. *Tam*/*TAM* [ˈtam], *BiH* [ˈbix], ali pa jih črkujemo, npr. *PTT* [pətəˈtə], *SD* [ɛsˈde], *RTV* [ɛɾtɛˈʋe]. Naglas pri črkovanju je običajno na zadnjem zlogu kratice. Izjemoma jih črkujemo tudi s tujimi črkami, npr. *BBC* [bibiˈsi]. Nečrkovalno brane in govorjene kratice, ki se pogosto rabijo, prehajajo med navadno pisane besede in se potem pišejo tudi tako: *SIT*/*sit*, *UNESCO*/*Unesco*, *TAM*/*Tam* ipd. [@toporisic_slovenski_2001, člen 1021].
+
+Kratice so večinoma moškega spola, ženskega so tiste, ki se končajo na naglašeni *-a*, npr. *EFTA*, *INA*, *NAMA* ipd. ter še nekatere druge, npr. *SAZU* (ki pa je lahko tudi moškega spola). Redke kratice so množinske, npr. *ZDA* [@toporisic_slovenski_2001, člen 1023].
+
+Kratice moškega spola sklanjamo ali po 1. ali po 3. moški sklanjatvi [@toporisic_slovenski_2001, člen 760, 804; @toporisic_slovenska_2000, 289], tj. po 1. moški sklanjatvi z glasovnimi končnicami, npr. *člani* *OF-a*, ali po 3. moški sklanjatvi brez glasovnih končnic, npr. *člani OF*. Pravopis priporoča sklanjanje po 1. moški sklanjatvi, ustrezni pa sta obe možnosti.
+
+Kratice ženskega spola, ki se ne končujejo na nenaglašeni *-a*, se sklanjajo po 3. ženski sklanjatvi [@toporisic_slovenski_2001, člen 812], pri kateri sklon ni izražen z glasovno končnico, npr. *v ZDA*. Kratice ženskega spola, ki se končajo na naglašeni *-a*, sklanjamo po 1. ženski sklanjatvi, npr. *v INI* (imenovalnik: *INA*). Ker se zadnji del kratice obravnava kot glasovna končnica, glasovno končnico v vseh sklonih pišemo z veliko črko in brez vezaja [@toporisic_slovenski_2001, člen 122; @dobrovoljc_kje_2020, 194].
+
+Kratice, ki se končajo na govorni soglasnik, sklonske končnice dodajamo za stičnim vezajem: *NUK-a*. Kadar se kratica govorno konča na naglašeni samoglasnik, pred končnico dodamo še podaljšavo z *-j*, npr. *DDV-ja* [@dobrovoljc_kje_2020, 194].
+
+Glede kratic, ki imajo podstavo srednjega spola, *Slovenski pravopis* 2001 ne predvidi sklanjanja po srednji sklanjatvi [@stumberger_kratice_2016, 444], kot primer Štumberger navaja: »se je SdS [= Slavistično društvo Slovenije] začelo povezovati«; »je imelo SdS v sedemdesetih letih«. Gl. tudi @stumberger_sklanjanje_2015.
+
+## Okrajšave
+
+**Okrajšáva** je sprejeta možnost pisanja pogoste besede oz. besedne zveze brez končnega dela. Za zapisanim delom pišemo piko, ki opozarja na okrajšavo, npr. *nam.* < *namesto*. Pri branju jih izgovarjamo kot cele, neokrajšane besede [@toporisic_enciklopedija_1992, 162; @toporisic_slovenski_2001, člen 1025]. Osnovno pravilo je, da za vsako okrajšano besedo pišemo piko, npr. *n. m.* < *navedeno mesto*; kadar okrajšamo zloženke, pišemo podredne zloženke brez presledka, npr. *l.r.* < *lastnoročno*, priredne pa brez presledka in z vezajem, kot se piše neokrajšana zloženka, npr. *rus.-slov.* < *rusko-slovenski* [@toporisic_slovenski_2001, člen 596]. Obstajajo nekatere dogovorjene izjeme, kot so *itd.*, *ipd.*, *npr.*, *tj.* ipd. [@toporisic_slovenski_2001, člen 597].
+
+Brez vmesne pike pišemo okrajšave, ki jih sestavimo iz črk ene besede, npr. *sle.*/*slv.* < *slovenski*; *ide.* < *indoevropski*; *sh.* < *srbohrvaški ipd.* [@toporisic_slovenski_2001, člen 598].
+
+## Simboli
+
+**Simból** je beseda, ki je okrajšana brez pike, npr. *S* < *sulfur* 'žveplo' [@toporisic_enciklopedija_1992, 270]. Mednje sodijo tudi okrnjene oblike za merske enote; med števko in mersko enoto zapisujemo presledek. Po dogovoru se simboli zapisujejo ali z velikimi ali z malimi črkami, npr. pri kemijskih simbolih je prva črka vedno velika, pri merskih enotah pa običajno majhna. Simboli so slovnično večinoma moškega spola [@toporisic_slovenski_2001, člen 1021, 1023].

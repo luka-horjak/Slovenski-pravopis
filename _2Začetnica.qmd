@@ -1,0 +1,157 @@
+# Velike in male črke
+## Velike črke
+### Splošno
+Z veliko začetnico pišemo:
+
+- prvo besedo v povedi,
+- lastna imena,
+- izraze posebega razmerja ali spoštovanja,
+- svojilne pridevnike iz lastnih imen in izrazov posebnega razmerja ali
+  spoštovanja,
+- in nekatere druge besede (SP 2001: § 28).
+
+
+### Prva beseda v povedi
+- *eDavki nudijo različne možnosti povezave za zunanje aplikacije
+  (podrobnosti o različnih načinih povezave si lahko ogledate na straneh
+  za razvijalce).*
+- *iSlovar je terminološki slovar informatike, razlagalni in
+  informativni slovar, ki strokovno izrazje pomensko in jezikovno
+  opisuje, vrednoti in kateremu so dodani angleški ustrezniki, navadno
+  kot ameriška različica.*
+- Enako je tudi s primeri, kot so: *iPhone*, *eBay*, *pH-vrednost* ...
+- *<http://www.google.com> je naslov priljubljenega iskalnika.*  
+  Bolje: *Spletni naslov <http://www.google.com> je naslov priljubljenega iskalnika …*  
+  Vir: [Jezikovna svetovalnica](https://svetovalnica.zrc-sazu.si/topic/28/mala-za%C4%8Detnica-na-za%C4%8Detku-povedi)
+- *pH vrednost lahko zelo preprosto izmerimo s pH indikatorskimi lističi.*
+- *a je v fiziki oznaka za pospešek.*
+- *A je v fiziki oznaka za delo.*
+- *Da Vinci je bil prepričan, da ravnovesje več kot le stvar uma.*
+- *Prof. dr. Maja Ribič*
+
+### Mala začetnica za končnim ločilom znotraj povedi (SP 2001: § 125)
+- *O Vrba! srečna draga vas domača ...* (= O Vrba, srečna draga vas domača ...)
+- »Ali ste dolgo čakali?« je rekla s tihim glasom.
+- *Jaz nimam skrivnosti ... jaz ne!*
+
+### Lastna imena (SP 2001: § 34--109)
+- Enodelna: *Jasna*, *Prešeren*, *Slovenec*, *Maribor*, *Fiat*, *Požganica* itd.
+- Večdelna: *Ivan Cankar*, *Aleksander Veliki*, *Fran Maselj Podlimbarski*, *Zofka Kveder - Jelovšek*, *Ljubljana Center* itd.
+- Dvojna imena: *Šmarje - Sap*, *Kal - Koritnica*, *Gozd - Martuljek* itd. [= zapis z nestičnim vezajem!] *Vlak se je ustavil v Šmarju - Sapu*. [= oba dela se sklanjata.]
+- *Friderik S praznim žepom*, *Pri Treh hišah* itd.
+- Krajšanje: *Barje* (= Ljubljansko barje), *Brda* (= Goriška brda), *Združeni narodi* ( = Organizacija združenih narodov) itd.;
+- nadomestna imena: *Otok* (= Velika Britanija), *Zahod* (= 'zahodni del večje zemljepisne enote, npr. Evropa in S. Amerika), *Prerok* (= Mohamed) itd.;
+  - ampak (gl. pravopisni slovar):  *dežela tisočerih jezer* (= Finska), *dežela vzhajajočega sonca* (= Japonska), *dežela na sončni strani Alp* (= Slovenija) itd. **gre za ekspresivno rabo**. Podobno tudi: *severne Benetke* (= Stockholm)
+- poobčnoimenjenje (apelativizacija): *štefan* (steklenica), *ford* (avto), *morava* (cigarete), *adidaske*/*superge* (športni čevlji), *vespa* (motorno kolo), *kolodont* (zobna pasta) itd.
+Več: [Jezikovna svetovalnica: Pisanje blagovne znamke in izdelka](https://svetovalnica.zrc-sazu.si/topic/153/pisanje-blagovne-znamke-in-izdelka)
+
+### Osebna imena
+- *Janez Novak* = *Novak***,** *Janez* (abecedni seznami);
+- Psevdonimi (skrivna imena): *Jovan Vesel - Koseski*, *Lovro Kuhar - Prežihov Voranc*, *Franc Rozman - Stane*, *Josip Murn - Aleksandrov*, *Boštjan Gorenc - Pižama* [= zapis z nestičnim vezajem!];
+- Stalni pridevki po kraju ali lastnostih (namesto priimkov): *Ljudevit Posavski*, *Herman Celjski*, *Henrik Osmi*, *Ivan Brez dežele*, *Katarina Velika*, *Katarina Medičejska*; 
+- Posebni pridevki k imenu in priimku: *Janez Bleiweis pl. Trsteniški*, *Stane Suhadolc, po domače (ali vulgo) Kovačev*;
+- Zgodovinska in domišljijska imena: *Sedeči bik* (= poglavar plemena Dakota oz. Lakota), *Rdeča kapica* itd.
+- Citatni zapis tujih predložnih delov priimka: *Mc'Charty*, *MacDonald*, *van Beethoven*, *O'Connor*, *Da Verona*, *De La Mare* itd.
+
+### Veroslovna in bajeslovna imena
+
+- *Bog* (kot lastno ime), *Sveti duh*, *Sveta trojica*, *Buda*, *Alah*
+- *Sveti trije kralji*, *Marija Pomagaj*, *Marija Pomočnica*;
+- Sopomenska/nadomestna imena: *Stvarnik*, *Vsemogočni*, *Devica*, *Gospod*.
+
+**Pomni:** verska besedila: npr. *Sveti Duh*, *Sveta Trojica* ipd.
+
+*kralj/Kralj Matjaž*, *kraljevič/Kraljevič Marko*, *lepa/Lepa Vida*
+
+Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
+
+### Domišljijska imena in poimenovanja
+- Enobesedna: *Aladin*, *Sapramiška*, *Zvitorepec*;
+- Večbesedna: *Snežna kraljica*, *Obuti maček* (= ne vsebujejo lastnega imena, zato se z véliko piše le 1. sestavina);
+- Večdelna (= obe sestavini sta lastni imeni): *Jaka Racman*, *Pika Nogavička*, *Mojca Pokrajculja*, *Miki Miška*;
+- Občno + lastno ime: *muca Copatarica*, *maček Muri*, *sovica Oka*, *zvezdica Zaspanka*, AMPAK: *pravljica Muca Copatarica*.
+
+### Imena prebivalcev 
+
+- *Slovenka*, *Lužiški Srb*, *Slovan*, *Jud* (= potomec izraelskega Judovskega rodu), Musliman (= pripadnik južnoslovanskega naroda), Bask, Anglež itd.
+- *Uskok*, *Dorec*, *Švicar*, *Avstrijec* itd.
+- *Ljubljančan*, *Dolenjec*, *Vojvodinec*, *Severnoameričan*, *Zemljan* itd.
+- *Slovenec* – *Neslovenec*, *Zemljan* – *Nezemljan*
+- Simbolna poimenovanja: *Janez* (Kranjec, Slovenec), *Švab* (Nemec), *Lah* (Italijan) itd.
+- Iz večbesednega zemljepisnega imena: *Beneški Slovenec*, *Severna/Južna Korejka*, *Vzhodni Goti* itd.
+- Časovni in zemljepisni pridevki: *stari Grki*, *južni Slovani* itd.; če tvorimo enobesedna poimenovanja: *prvotni Slovani* – *Praslovani*, *istrski Romani* – *Istroromani* itd.
+
+
+### Zemljepisna imena
+
+- *Maribor*, *Ulica stare pravde*, *Slovenika*, *Republika Slovenija*, *Dolenjska*, *Peričnik*, *Vrbsko jezero*, *Logarska dolina*, *Ljutomersko-Ormoške gorice*, *Debeli rtič*, *Rimska cesta*, *Mars*, *Nebotičnik*, *Žale*, *Stara trta* (Maribor) itd.
+- **Naselbinska** in **nenaselbinska** zemljepisna imena
+  - Deli naselbin = nenaselbinska imena, npr. *Zelena jama*, *Rožna dolina* (LJ)
+- Eno in večbesedna: *Gorica*, *Novo mesto*, *Šmarje pri Jelšah*;
+- Dvodelna: *Ljubljana Bežigrad*;
+- Dvojna imena: *Šmarje - Sap*, *Gorenja vas - Reteče*, *Pri Cerkvi - Struge* [= zapis z nestičnim vezajem!];
+- Izjeme: mesto, trg, vas (vasca), selo (sela, selca), naselje: *Črni Vrh nad Idrijo*, *Otočec pri Novem mestu*, *Most na Soči*, *Stari trg*, *Opatje selo*, *Pri Treh Hišah* itd.
+
+
+### Stvarna (lastna) imena
+
+- *Slovenski biografski leksikon*, *Klasje*, *Primorski dnevnik*, *Novi Matajur*, *Val 202*, *Zrcalo tedna*, *Stiški rokopis*, *Osimski sporazumi*, *To so gadi*, *Deček s piščalko*, *Sejalec*, *Festivalna dvorana*, *Zlata lisica* (= ime prireditve!), *Rdeči križ Slovenije*, *Gospodarska zbornica Slovenije*, *Slovenska vojska*, *Slavistično društvo Slovenije*, *Perutnina Ptuj*, *Splošna bolnišnica Celje*, *Slovenski šolski muzej* itd.
+- *Oddelek za slovenistiko*, *Zdravstveni dom Šiška*, *Občina Domžale*, *Vlada Republike Slovenije*, *Občinski svet Občine Medvode* itd.
+- *Varšavski pakt*, *Evropska unija*, *Campanula zoisii* (zoisova zvončica) itd.
+
+### Izrazi posebnega razmerja ali spoštovanja
+
+- *Lepo **Vas** pozdravljam!* – *Lepo **vas** pozdravljam!*
+  - Izraze pri ogovorih po osebni izbiri lahko pišemo tudi z malo začetnico, ne da bi to pomenilo nespoštovanje (SP 2001: § 156).
+- Ekscelenca/ekscelenca
+  - *Njegovi [ekscelenci]{style="color: blue;"} predsedniku Republike Slovenije gospodu Borutu Pahorju so v Predsedniški palači slovesno predali poverilna pisma novoimenovani veleposlaniki.*
+
+### Svojilni pridevniki iz besed, pisanih z veliko
+
+- *-ov*, *-ev*, *-in*: *Vodnikov*, *Župančičev*, *Krležev*, *van Goghov*, *Beethovnov*, *Julijin*, *Plemljev* itd.
+- Duhovna last: [*von der Leynina komisija*] (komisija Ursule von der Leyen), [*Lagardina lista*] (lista Christine Lagarde), *Pitagorov izrek*, *Ohmov zakon* itd.
+- Zveze s prenesenim pomenom (?): *Ahilova peta*, *Demoklejev meč*, *Sizifovo delo* itd.
+
+### Kratice
+
+- TAM → Tam, UNESCO → Unesco ipd.
+- ZPIZ, ZPIZ-a; STA, STA-ja; OZN, OZN-ja (v pravilih), OZN, OZN-a (v slovarju); BBC, BBC-ja itd.
+- INA (= Industrija nafte), INE; UNESCO, UNESCA; NATO, NATA itd.
+
+## Male črke
+
+### Določila in poimenovanja bitij
+1. Vrsta naselja, splošne zemljepisne okoliščine: *vaščan*, *meščan*, *dolinec*, *hribovec*, *zahodnjak*, *južnjak* ipd.
+2. Določila pred os. imenom: *doktor* (*dr.*), *gospod* (*g.*), *gospa* (*ga.*), *inženir* (*inž.*), *sveti* (*sv.*) ipd.
+3. Ločevalni dodatki za imenom glede na rodovno zaporedje: *mlajši* (*ml.*), *starejši* (*st.*), npr. *Plinij st.*, *Dumas sin* itd.
+4. Občna določila v stalnih zvezah z lastnim imenom: *dedek Mraz*, *primorski Slovenec*, *stari Grki*, *lisica Zvitorepka* itd.
+5. Občne besede iz lastnih imen (apelativizacija): *jurček*, *jur*, *štefan*, *silvester*, *ford*, *rentgen* itd.
+6. Poimenovanja bajeslovnih, veroslovnih in podobnih bitij: *duh*, *bog*, *povodni mož*, *rojenica*, *kurent*, *deseti brat*, *škrat* itd.
+7. *zemljan* (v pomenu ‘človek’), *marsovec* (v pomenu ‘vesoljec’)
+8. Rasna in jezikovna pripadnost: *črnec*, *belec*, *rdečekožec*, *kajkavec*, *indoevropejec* itd.
+9. Vrsta bitij ali predmetov, ki so enakozvočna imenom prebivalcev ali zemljepisnim imenom: *lah* (italijanski okupatorski vojak), *francoz* (delati se francoza), *štajerka* (kura), *francoz* (orodje), *ementalec* (sir), amerikanka (žaga), sibirija (mrzla pokrajina) itd.
+10. Poimenovanja pripadnikov gibanj, nazorov, ver, listov, društev, strank, redov, podjetij ipd.: *ilirec*, *marksist*, *kristjan*, *budist*, *jud*, *vajevec*, *modernist*, *mladoslovenec*, *socialist*, *zeleni*, *frančiškan*, *apezejevec*, *nobelovec* itd.
+
+
+### Zemljepisna občna imena
+
+1. Besede *mesto*, *trg*, *vas(ca)*, *selo*, *sela*, *selce*, *naselje*, če niso prve sestavine naselbinskih imen: *Radohova vas*, *Novo mesto*, *Stari trg*, *Ribiško naselje* itd.
+2. Neprve sestavine delov mest, trgov, ulic, cest, poslopij itd.: *Mestni log*, *Rožna dolina* (LJ), *Cesta dveh cesarjev*, *Gospodarsko razstavišče*, *Cesta Pohorskega bataljona* itd,
+3. Neprve sestavine nenaselbinskih imen: *Združene države Amerike*, *Slovensko primorje*, *Bohinjsko jezero*, *Velika planina*, *Babji zob*, *Trnovski gozd*, *Kočevski rog*, *Potočka zijalka*, *Debeli rtič*, *Veliki voz* itd.
+4. *luna*, *mesec*, *sonce*, kadar ne mislimo na nebesna telesa
+
+### Stvarna občna imena
+
+1. Vrstna poimenovanja:
+
+    - društva, organizacije, stranke, ustanove, vojaške enote, podjetja: *pisateljsko društvo*, *liberalna stranka*, *druga četa prvega bataljona*, *osnovna šola* itd.
+    - organi (kadar ne mislimo uradnega imena): *Na občnem zboru so izvolili komisijo za sklepe.* – *Predlog slovenske vlade bo prišel v javno razpravo.* – *Iz glavnega štaba so poslali dva kurirja.*
+    - industrijski izdelki: *Pišem z olivetijem.* (= *Pišem s pisalnim strojem Olivetti.*) – *Na roki imam rolex.* (= *Na roki imam uro (znamke) Rolex.*)
+2. Nadomestna/skrajšana imena meddržavnih zvez: *sveta aliansa*, *renska zveza* itd. (pišejo se tudi z veliko začetnico!)^[Podatki v Gigafidi 2.0: Renska zveza (21) : renska zveza (8); Sveta aliansa (18) : sveta aliansa (17).]
+3. Zgodovinski dogodki: *narodnoosvobodilni boj*, *francoska revolucija*, *druga svetovna vojna*, *ljubljanski kongres* itd.
+4. Imena praznikov in posebnih datumov, če imena niso izpeljana iz priimkov: *prvi maj*, *velika noč*, *božič*, *jurjevo*, *advent* itd.
+5. Vrste objektov, iznajdb idr.: *mestna hiša*, *frančiškanska cerkev*, *sodna palača* itd.
+6. Odlikovanja, športne trofeje, nagrade (če se ne začnejo s svoj. prid. iz lastnega imena): *zlati znak generala Maistra*, *jabolko navdiha*, *zlati častni znak svobode Republike Slovenije*, *olimpijska zlata medalja*, *oskar*, *vesna*, *zlata palma*, *zlati medved*, *zlata lisica* (ampak *Borštnikov prstan*, *Cankarjevo priznanje* ipd.)
+7. Imena iger: *dama*, *tarok*, *ali je kaj trden most* itd.
+8. (Vrstna) imena zdravil: *aspirin*, *apavrin*, *pronison* itd.
+9. Umetnosti, politični nazori: *moderna*, *renesansa*, *ničejanstvo* itd.
