@@ -1,0 +1,11 @@
+When you update the textbook
+After editing chapters in Positron, run:
+
+
+Koda: 
+
+
+git add .
+git commit -m "Update textbook"
+git push
+quarto publish gh-pages

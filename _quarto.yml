@@ -14,16 +14,18 @@ book:
     - _5Pisanje.qmd
     - _6Sklanjatve.qmd
     - references.qmd
+  output-file: slovenski-pravopis
+  downloads: [pdf]
   navbar:
     background: success
     title: "Slovenski pravopis (pregled)"
     right:
       - text: "Domov"
         href: index.qmd
-
   page-footer:
     left: "© 2026 Luka Horjak"
-    right: '![](images\ul_ff-logover-rgb_barv.png){width=200px}'
+    right: '![](images/ul_ff-logover-rgb_barv.png){width=200px}'
+  
 
 bibliography: references.bib
 csl: apa.csl
@@ -35,8 +37,8 @@ format:
     theme:
       light: flatly
       dark: darkly
-  pdf:
-    documentclass: scrreprt
+  pdf: default
+
 
 
 
