@@ -6,35 +6,35 @@ Z veliko začetnico pišemo:
 - prvo besedo v povedi,
 - lastna imena,
 - izraze posebega razmerja ali spoštovanja,
-- svojilne pridevnike iz lastnih imen in izrazov posebnega razmerja ali
-  spoštovanja,
-- in nekatere druge besede (SP 2001: § 28).
+- svojilne pridevnike iz lastnih imen in izrazov posebnega razmerja ali spoštovanja,
+- in nekatere druge besede [@toporisic_slovenski_2001, člen 28].
 
 
 ### Prva beseda v povedi
-- *eDavki nudijo različne možnosti povezave za zunanje aplikacije
-  (podrobnosti o različnih načinih povezave si lahko ogledate na straneh
-  za razvijalce).*
-- *iSlovar je terminološki slovar informatike, razlagalni in
-  informativni slovar, ki strokovno izrazje pomensko in jezikovno
-  opisuje, vrednoti in kateremu so dodani angleški ustrezniki, navadno
-  kot ameriška različica.*
+
+- *eDavki nudijo različne možnosti povezave za zunanje aplikacije   (podrobnosti o različnih načinih povezave si lahko ogledate na straneh  za razvijalce).*
+- *iSlovar je terminološki slovar informatike, razlagalni in   informativni slovar, ki strokovno izrazje pomensko in jezikovno   opisuje, vrednoti in kateremu so dodani angleški ustrezniki, navadno kot ameriška različica.*
 - Enako je tudi s primeri, kot so: *iPhone*, *eBay*, *pH-vrednost* ...
 - *<http://www.google.com> je naslov priljubljenega iskalnika.*  
   Bolje: *Spletni naslov <http://www.google.com> je naslov priljubljenega iskalnika …*  
-  Vir: [Jezikovna svetovalnica](https://svetovalnica.zrc-sazu.si/topic/28/mala-za%C4%8Detnica-na-za%C4%8Detku-povedi)
 - *pH vrednost lahko zelo preprosto izmerimo s pH indikatorskimi lističi.*
 - *a je v fiziki oznaka za pospešek.*
 - *A je v fiziki oznaka za delo.*
 - *Da Vinci je bil prepričan, da ravnovesje več kot le stvar uma.*
-- *Prof. dr. Maja Ribič*
+- *Prof. dr. Maja Ribič* (vir: [Jezikovna svetovalnica: Mala začetnica na začetku povedi](https://svetovalnica.zrc-sazu.si/topic/28/mala-za%C4%8Detnica-na-za%C4%8Detku-povedi))
 
-### Mala začetnica za končnim ločilom znotraj povedi (SP 2001: § 125)
+### Mala začetnica za končnim ločilom znotraj povedi
+
+[@toporisic_slovenski_2001, člen 125]
+
 - *O Vrba! srečna draga vas domača ...* (= O Vrba, srečna draga vas domača ...)
 - »Ali ste dolgo čakali?« je rekla s tihim glasom.
 - *Jaz nimam skrivnosti ... jaz ne!*
 
-### Lastna imena (SP 2001: § 34--109)
+### Lastna imena 
+
+[@toporisic_slovenski_2001, člen 34--109]
+
 - Enodelna: *Jasna*, *Prešeren*, *Slovenec*, *Maribor*, *Fiat*, *Požganica* itd.
 - Večdelna: *Ivan Cankar*, *Aleksander Veliki*, *Fran Maselj Podlimbarski*, *Zofka Kveder - Jelovšek*, *Ljubljana Center* itd.
 - Dvojna imena: *Šmarje - Sap*, *Kal - Koritnica*, *Gozd - Martuljek* itd. [= zapis z nestičnim vezajem!] *Vlak se je ustavil v Šmarju - Sapu*. [= oba dela se sklanjata.]
@@ -43,9 +43,10 @@ Z veliko začetnico pišemo:
 - nadomestna imena: *Otok* (= Velika Britanija), *Zahod* (= 'zahodni del večje zemljepisne enote, npr. Evropa in S. Amerika), *Prerok* (= Mohamed) itd.;
   - ampak (gl. pravopisni slovar):  *dežela tisočerih jezer* (= Finska), *dežela vzhajajočega sonca* (= Japonska), *dežela na sončni strani Alp* (= Slovenija) itd. **gre za ekspresivno rabo**. Podobno tudi: *severne Benetke* (= Stockholm)
 - poobčnoimenjenje (apelativizacija): *štefan* (steklenica), *ford* (avto), *morava* (cigarete), *adidaske*/*superge* (športni čevlji), *vespa* (motorno kolo), *kolodont* (zobna pasta) itd.
-Več: [Jezikovna svetovalnica: Pisanje blagovne znamke in izdelka](https://svetovalnica.zrc-sazu.si/topic/153/pisanje-blagovne-znamke-in-izdelka)
+(Gl. tudi [Jezikovna svetovalnica: Pisanje blagovne znamke in izdelka](https://svetovalnica.zrc-sazu.si/topic/153/pisanje-blagovne-znamke-in-izdelka))
 
 ### Osebna imena
+
 - *Janez Novak* = *Novak***,** *Janez* (abecedni seznami);
 - Psevdonimi (skrivna imena): *Jovan Vesel - Koseski*, *Lovro Kuhar - Prežihov Voranc*, *Franc Rozman - Stane*, *Josip Murn - Aleksandrov*, *Boštjan Gorenc - Pižama* [= zapis z nestičnim vezajem!];
 - Stalni pridevki po kraju ali lastnostih (namesto priimkov): *Ljudevit Posavski*, *Herman Celjski*, *Henrik Osmi*, *Ivan Brez dežele*, *Katarina Velika*, *Katarina Medičejska*; 
@@ -66,6 +67,7 @@ Več: [Jezikovna svetovalnica: Pisanje blagovne znamke in izdelka](https://sveto
 Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
 
 ### Domišljijska imena in poimenovanja
+
 - Enobesedna: *Aladin*, *Sapramiška*, *Zvitorepec*;
 - Večbesedna: *Snežna kraljica*, *Obuti maček* (= ne vsebujejo lastnega imena, zato se z véliko piše le 1. sestavina);
 - Večdelna (= obe sestavini sta lastni imeni): *Jaka Racman*, *Pika Nogavička*, *Mojca Pokrajculja*, *Miki Miška*;
@@ -102,7 +104,7 @@ Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
 ### Izrazi posebnega razmerja ali spoštovanja
 
 - *Lepo **Vas** pozdravljam!* – *Lepo **vas** pozdravljam!*
-  - Izraze pri ogovorih po osebni izbiri lahko pišemo tudi z malo začetnico, ne da bi to pomenilo nespoštovanje (SP 2001: § 156).
+  - Izraze pri ogovorih po osebni izbiri lahko pišemo tudi z malo začetnico, ne da bi to pomenilo nespoštovanje [@toporisic_slovenski_2001, člen 156].
 - Ekscelenca/ekscelenca
   - *Njegovi ekscelenci predsedniku Republike Slovenije gospodu Borutu Pahorju so v Predsedniški palači slovesno predali poverilna pisma novoimenovani veleposlaniki.*
 
@@ -121,6 +123,7 @@ Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
 ## Male črke
 
 ### Določila in poimenovanja bitij
+
 1. Vrsta naselja, splošne zemljepisne okoliščine: *vaščan*, *meščan*, *dolinec*, *hribovec*, *zahodnjak*, *južnjak* ipd.
 2. Določila pred os. imenom: *doktor* (*dr.*), *gospod* (*g.*), *gospa* (*ga.*), *inženir* (*inž.*), *sveti* (*sv.*) ipd.
 3. Ločevalni dodatki za imenom glede na rodovno zaporedje: *mlajši* (*ml.*), *starejši* (*st.*), npr. *Plinij st.*, *Dumas sin* itd.
@@ -143,7 +146,6 @@ Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
 ### Stvarna občna imena
 
 1. Vrstna poimenovanja:
-
     - društva, organizacije, stranke, ustanove, vojaške enote, podjetja: *pisateljsko društvo*, *liberalna stranka*, *druga četa prvega bataljona*, *osnovna šola* itd.
     - organi (kadar ne mislimo uradnega imena): *Na občnem zboru so izvolili komisijo za sklepe.* – *Predlog slovenske vlade bo prišel v javno razpravo.* – *Iz glavnega štaba so poslali dva kurirja.*
     - industrijski izdelki: *Pišem z olivetijem.* (= *Pišem s pisalnim strojem Olivetti.*) – *Na roki imam rolex.* (= *Na roki imam uro (znamke) Rolex.*)
@@ -155,3 +157,7 @@ Alegorične poosebitve: *Luč*, *Smrt*, *Sreča*, *Zlo* itd.
 7. Imena iger: *dama*, *tarok*, *ali je kaj trden most* itd.
 8. (Vrstna) imena zdravil: *aspirin*, *apavrin*, *pronison* itd.
 9. Umetnosti, politični nazori: *moderna*, *renesansa*, *ničejanstvo* itd.
+
+## Dodatek
+
+- [Velika začetnica pri obdobjih starega Egipta in dinastijah faraonov](https://svetovalnica.zrc-sazu.si/topic/7574/velika-za%C4%8Detnica-pri-obdobjih-starega-egipta-in-dinastijah-faraonov)
