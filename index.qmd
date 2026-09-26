@@ -1,5 +1,5 @@
 # Uvod {.unnumbered}
 
-Na tem mestu so zbrani povzetki poglavij *Slovenskega pravopisa* (@toporisic_slovenski_2001), ki so v pomoč študentkam in študentom pri predmetih SL1 Pravorečna in pravopisna norma slovenskega knjižnega jezika in SL1 Morfologija slovenskega knjižnega jezika na Oddelku za slovenistiko Filozofske fakultete Univerze v Ljubljani. 
+Na tem mestu so zbrani povzetki poglavij *Slovenskega pravopisa* [@toporisic_slovenski_2001], ki so v pomoč študentkam in študentom pri predmetih SL1 Pravorečna in pravopisna norma slovenskega knjižnega jezika in SL1 Morfologija slovenskega knjižnega jezika na Oddelku za slovenistiko Filozofske fakultete Univerze v Ljubljani. 
 
-Spletno mesto je ustvarjeno s pomočjo orodja Quarto books  <https://quarto.org/docs/books>.
+Spletno mesto je ustvarjeno z orodjem [Quarto books](https://quarto.org/docs/books).
