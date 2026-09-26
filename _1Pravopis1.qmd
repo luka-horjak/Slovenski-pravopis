@@ -1,5 +1,5 @@
 # Slovenski pravopis
-## Slovenski pravopis 2001
+## *Slovenski pravopis* 2001
 :::: {.columns}
 
 
@@ -21,7 +21,7 @@
 :::
 ::::
 
-## Slovenski pravopis 8.0
+## *Slovenski pravopis* 8.0
 
 - [Jezikovna
   svetovalnica](http://www.fran.si/iskanje?FilteredDictionaryIds=151&View=1&Query=%2A)

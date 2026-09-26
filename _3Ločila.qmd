@@ -1,6 +1,6 @@
 # Ločila
 
-Rabo ločil *Slovenski pravopis* 2001 deli na **skladenjsko** in **neskladenjsko**. **Skladenjsko** se rabijo na koncu povedi: pika (.), vprašaj (?), klicaj (!), tri pike (...), pomišljaj (–); na koncu dela povedi: vejica (,), podpičje (;), dvopičje (:), tri pike (...), pomišljaj (–); na začetku povedi ali njenega dela: narekovaji („ “; » «), odstavčni (alinejni) pomišljaj (–),[^1] tri pike (...); na začetku in koncu povedi ali njenega dela: oklepaj (), dvodelni pomišljaj (–), narekovaji („ “; » «). **Neskladenjsko** se uporabljajo: pika (.), opuščaj ('), vezaj (-), deljaj (-), klicaj (!), vprašaj (?).\
+Rabo ločil *Slovenski pravopis* 2001 deli na **skladenjsko** in  **neskladenjsko**. **Skladenjsko** se rabijo na koncu povedi: pika (.), vprašaj (?), klicaj (!), tri pike (...), pomišljaj (–); na koncu dela povedi: vejica (,), podpičje (;), dvopičje (:), tri pike (...), pomišljaj (–); na začetku povedi ali njenega dela: narekovaji („“; »«), odstavčni (alinejni) pomišljaj (–),[^1] tri pike (...); na začetku in koncu povedi ali njenega dela: oklepaj (), dvodelni pomišljaj (–), narekovaji („ “; » «). **Neskladenjsko** se uporabljajo: pika (.), opuščaj ('), vezaj (-), deljaj (-), klicaj (!), vprašaj (?).\
 
 ## Pika
 
@@ -358,7 +358,7 @@ Tri pike (...) so nestično ločilo.
 
 ### Skladenjska raba
 
-Oklepaj je načeloma dvodelno ločilo, sestoji iz **uklepaja** in **zaklepaja**. Ločimo okrogle ( ), poševne / /, pokončne `| |`, zavite `{ }`, oglate `[ ]`, lomljene ⟨ ⟩ oklepaje.
+Oklepaj je načeloma dvodelno ločilo, sestoji iz **uklepaja** in **zaklepaja**. Ločimo okrogle `( )`, poševne `/ /`, pokončne `| |`, zavite `{ }`, oglate `[ ]`, lomljene `⟨ ⟩` oklepaje.
 
 -   Ponazoritve: *Odlomek je pisan v lepem jeziku z rahlimi potezami gorenjščine (zlo, nalaš, kmalo).*
 
@@ -376,15 +376,18 @@ Oklepaj je načeloma dvodelno ločilo, sestoji iz **uklepaja** in **zaklepaja**.
 
 ### Neskladenjska raba
 
--   Raba v matematiki, jezikoslovju in drugih vedah.V jezikoslovju npr. foneme zapisujemo med poševne oklepaje / /, alofone med oglate `[ ]`, grafeme (črke) med lomljene ⟨ ⟩ ipd.
+-   Raba v matematiki, jezikoslovju in drugih vedah.V jezikoslovju npr. foneme zapisujemo med poševne oklepaje `/ /`, alofone med oglate `[ ]`, grafeme (črke) med lomljene `⟨ ⟩` ipd.
 
 ## Zaklepaj
 
--   Zaklepaj pišemo ob črkah (redkeje ob številkah) pri naštevalnih enotah, npr.:\
-    [*Kratice in okrajšave so sestavljene:\
-    a) iz samih malih črk,\
-    b) iz samih velikih črk,\
-    c) iz malih in velikih črk.*]{}
+-   Zaklepaj pišemo ob črkah (redkeje ob številkah) pri naštevalnih enotah, npr.:
+
+ ```text
+ Kratice in okrajšave so sestavljene:
+  a) iz samih malih črk,
+  b) iz samih velikih črk,
+  c) iz malih in velikih črk.
+  ```
 
 ## Poševnica
 
@@ -439,7 +442,7 @@ V slovenskih besedilih običajno uporabljamo dvojne srednje (» «) ali dvojne s
     vina ...\
     *]{}
 
--   Če pri deljenju besede z vezajem ali stičnim pomišljajem pride vezaj ali pomišljaj na konec vrstice, prvega deljaj odrine na začetek nove vrstice, pri pomišljaju pa delaj odpade (???):\
+-   Če pri deljenju besede z vezajem ali stičnim pomišljajem pride vezaj ali pomišljaj na konec vrstice, prvega deljaj odrine na začetek nove vrstice, pri pomišljaju pa delaj odpade:\
     [*... Ljubljana\
     –Maribor ...*]{}\
      \
@@ -462,7 +465,7 @@ V slovenskih besedilih običajno uporabljamo dvojne srednje (» «) ali dvojne s
 
     -   Togotno sem rekel: »Z njim boš hodila! Še tega je bilo treba!«
 
-[^1]: Pri tipkanju ga lahko nadomešča vezaj (-), § 229.
+[^1]: Pri tipkanju ga lahko nadomešča vezaj (-), [@toporisic_slovenski_2001, člen 229].
 
 [^2]: Mišljeno *tepk*.
 

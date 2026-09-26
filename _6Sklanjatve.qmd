@@ -1,6 +1,6 @@
 # Oblikoslovje: Moške sklanjatve
 
-Pravopisno podpoglavje **Oblikoslovje** (§ 746–873).
+Pravopisno podpoglavje **Oblikoslovje** [@toporisic_slovenski_2001, člen 746–873].
 
 ## Moške sklanjatve
 
@@ -8,17 +8,18 @@ Pravopisno podpoglavje **Oblikoslovje** (§ 746–873).
 
 #### Krajšanje osnove zaradi neobstojnega samoglasnika
 
-**1. Samo pisno krajšanje.** Na koncu osnove izginja nemi samoglasnik, ki **ne odloča** o izgovoru pred njim stoječih črk za glasove č ž š dž in s (pisanega s c): *Wilde* *Wilda*, *Corneille* *Corneilla*, *Laforgue* *Laforgua* (prim. še *Kaye* *Kaya*) proti *Wallace* *Wallacea*, *George* *Georgea* (*e* za *c* oz. *g* namreč varuje izgovor črke *c* kot *s* oz. *g* kot *dž*) (§ 772).
+**1. Samo pisno krajšanje.** Na koncu osnove izginja nemi samoglasnik, ki **ne odloča** o izgovoru pred njim stoječih črk za glasove č ž š dž in s (pisanega s c): *Wilde* *Wilda*, *Corneille* *Corneilla*, *Laforgue* *Laforgua* (prim. še *Kaye* *Kaya*) proti *Wallace* *Wallacea*, *George* *Georgea* (*e* za *c* oz. *g* namreč varuje izgovor črke *c* kot *s* oz. *g* kot *dž*) [@toporisic_slovenski_2001, člen 772].
 
-- Osnove pisno krajšamo tudi v primeru, ko nemi samoglasnik preprečuje nosni izgovor zveze **samoglasnik + n ali m**: *Lamartine* *Lamartina* (§ 773).
-- Če takemu nememu samoglasniku (lahko tudi sklopu nemih samoglasnikov) **sledi še kakšen soglasnik**, osnove pri sklanjanju ne krajšamo, najsi ta soglasnik izgovarjamo ali ne: *James* *Jamesa*, *Holmes* *Holmesa*, *Hobbes* *Hobbesa*, *Jacques* *Jacquesa* (§ 774).
+- Osnove pisno krajšamo tudi v primeru, ko nemi samoglasnik preprečuje nosni izgovor zveze **samoglasnik + n ali m**: *Lamartine* *Lamartina* [@toporisic_slovenski_2001, člen 773].
+- Če takemu nememu samoglasniku (lahko tudi sklopu nemih samoglasnikov) **sledi še kakšen soglasnik**, osnove pri sklanjanju ne krajšamo, najsi ta soglasnik izgovarjamo ali ne: *James* *Jamesa*, *Holmes* *Holmesa*, *Hobbes* *Hobbesa*, *Jacques* *Jacquesa* [@toporisic_slovenski_2001, člen 774].
 
 **2. Samo glasovno krajšanje.** V primerih, ko polglasnika ne pišemo, ga pa v imenovalniku izgovarjamo (*žanər* *žanra*) ali lahko izgovarjamo *film* *filma* [fíləm fílma].
 
 **3. Pisno in glasovno krajšanje osnove** imamo v primerih tipa *posel* *posla* ali *sejem* *sejma*:
 
 - **Slovanski neobstojni samoglasniki ostanejo neobstojni tudi v slovenščini**, če temu ne nasprotuje izgovorljivost: *Muromec* *Muromca*, *Dudok* *Dudka*, *Zgorzelec* *Zgorzelca*, *Čapek* *Čapka*, *Kragujevac* *Kragujevca*, *Zadar* *Zadra*, *Čakovec* *Čakovca* (ne pa npr. *Lev* *\*Lva*, temveč *Lev* *Leva*).
-- **Neslovanski polglasnik** pred končnim soglasnikom ali soglasniškim sklopom pogosto obravnavamo kot polglasnik v navadnih slovenskih besedah: *Münster* *Münstra*, *München* *Münchna*, *Basel* *Basla*, *Webster* *Webstra*, *Russell* *Russlla*, *raster* *rastra* ipd. Včasih pa ga (navadno zaradi lažje izgovorljivosti) zamenjamo z *e* ali *o* in je kot tak obstojen: *Herder* *Herderja*, *Walter* *Walterja*. Oblike z govorjenim polglasnikom za pisani *o* (npr. *Nixon*, *Milton* = [níksən] …) niso priporočljive (prim. § 709); to velja tudi za podobne nordijske primere na *-sen* in *-son* (npr. *Andersen*, *Olafsson*; prim. § 716).
+
+- **Neslovanski polglasnik** pred končnim soglasnikom ali soglasniškim sklopom pogosto obravnavamo kot polglasnik v navadnih slovenskih besedah: *Münster* *Münstra*, *München* *Münchna*, *Basel* *Basla*, *Webster* *Webstra*, *Russell* *Russlla*, *raster* *rastra* ipd. Včasih pa ga (navadno zaradi lažje izgovorljivosti) zamenjamo z *e* ali *o* in je kot tak obstojen: *Herder* *Herderja*, *Walter* *Walterja*. Oblike z govorjenim polglasnikom za pisani *o* (npr. *Nixon*, *Milton* = [níksən] …) niso priporočljive (prim. § 709); to velja tudi za podobne nordijske primere na *-sen* in *-son* (npr. *Andersen*, *Olafsson*; prim. @toporisic_slovenski_2001, člen  716).
 
 #### Podaljšava z -j
 
