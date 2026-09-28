@@ -60,7 +60,7 @@ Vejico pišemo:
 
 1.  **med enakovrednimi deli proste ali zložene povedi:**
 
-    1.  **nestavčni enakovredni deli:**
+    a)  **nestavčni enakovredni deli:**
 
         -   **vezalni** (naštevanje): *Polje, vinograd, gora, morje ...* – *Slovenci so se izseljevali deloma v Nemčijo, deloma v Francijo, deloma v Ameriko.*
 
@@ -86,7 +86,7 @@ Vejico pišemo:
             arhiv\
             *]{}
 
-    2.  **pristavčni deli:**
+    b)  **pristavčni deli:**
 
         -   **Vejica je na obeh straneh**: *Pri Prešernu, največjem slovenskem pesniku, so se učili vsi kasnejši pesniški rodovi.* – *Podjetju Mavrica, d. d., grozi stavka.* – *Slovensko narodno gledališče, Opera in balet, ima na sporedu tri nove predstave.*
 
@@ -94,7 +94,7 @@ Vejico pišemo:
 
             -   **Posebnost**: Če je lastno ime določilo pred njim stoječe BZ, ga od nje ločimo z vejico, kadar domnevamo, da zveza naslovniku tega imena ne napoveduje samoumevno: *Največji slovenski pesnik, France Prešeren, se je rodil v Vrbi.* = *Največji slovenski pesnik France Prešeren se je rodil v Vrbi.*
 
-    3.  **stavčni enakovredni deli**
+    c)  **stavčni enakovredni deli**
 
         -   **Vezalni**: *Pod nebom ptice letajo, ribe v vodi plavajo, v hostah zamira glas sekire, s polja sejalec gre domov.*
 
@@ -115,26 +115,17 @@ Vejico pišemo:
 
         -   Z vejico ločimo tudi vrinjene stavke: *Daleč, ne vem kje, se je oglasil žvižg.* – *Cankar, to vemo, je živel dalj časa na Dunaju.*
 
-    4.  **nestavčno-stavčni enakovredni deli**\
-        **Vejice med skladenjsko enakovrednimi deli ne pišemo:**
-
-        -   pred vezalnimi *in*, *pa*, *ter*, ločnimi *ali*, *oziroma*, *bodi(si)*, stopnjevalnimi *ne* – *ne*, *niti* – *niti*, *tako* – *kakor* vejice ne pišemo;
-
-        -   vezalni: *Hana prinese steklenico in kozarce ter šunko.* – *Poiskal je vžigalice in prižgal svečo.*
-
-        -   stopnjevali: *Nisem ne tat ne ubijalec.* – *Društvo se je ohranilo do današnjega dne pa tudi njihova pravila še veljajo.*
-
-        -   ločni: *Ali delaj doma ali pojdi v svet.* – *Ta poročila so bodisi resnična bodisi zlagana.*
-
-        -   Vrinjeni stavki: *Moj prijatelj, tudi jaz imam prijatelja, in njegova žena živita v Kranju*
-
-        -   Kadar sta osebka prirednih stavkov slabo družljiva, pišemo vejico pred *in*: *Komaj je zatisnil oči, se je zbudil, in dan je bil.*
-
-        **Vejice med skladenjsko enakovrednimi deli ne pišemo:**
-
-        -   kadar posamezne izraze ponavljamo, ne da bi jih v govoru ločili s premori: *Beli so beli češnjevi cvetovi.* – *Perilo je belo belo.* - *Joj joj, kako boli!*
-
-        -   med prirednimi besednimi zvezami z izpuščenim veznikom *in*, *ali*: *na vrat na nos* – *križem kražem* – *hočeš nočeš moraš*.
+    d)  **nestavčno-stavčni enakovredni deli**
+        - **Vejice med skladenjsko enakovrednimi deli ne pišemo:**
+            -  pred vezalnimi *in*, *pa*, *ter*, ločnimi *ali*, *oziroma*, *bodi(si)*, stopnjevalnimi *ne* – *ne*, *niti* – *niti*, *tako* – *kakor* vejice ne pišemo;
+            -   vezalni: *Hana prinese steklenico in kozarce ter šunko.* – *Poiskal je vžigalice in prižgal svečo.*
+            -   stopnjevali: *Nisem ne tat ne ubijalec.* – *Društvo se je ohranilo do današnjega dne pa tudi njihova pravila še veljajo.*
+            -   ločni: *Ali delaj doma ali pojdi v svet.* – *Ta poročila so bodisi resnična bodisi zlagana.*
+            -   Vrinjeni stavki: *Moj prijatelj, tudi jaz imam prijatelja, in njegova žena živita v Kranju*
+            -   Kadar sta osebka prirednih stavkov slabo družljiva, pišemo vejico pred *in*: *Komaj je zatisnil oči, se je zbudil, in dan je bil.*
+        - **Vejice med skladenjsko enakovrednimi deli ne pišemo:**
+            -   kadar posamezne izraze ponavljamo, ne da bi jih v govoru ločili s premori: *Beli so beli češnjevi cvetovi.* – *Perilo je belo belo.* - *Joj joj, kako boli!*
+            -   med prirednimi besednimi zvezami z izpuščenim veznikom *in*, *ali*: *na vrat na nos* – *križem kražem* – *hočeš nočeš moraš*.
 
 2.  **med nadrednim in odvisnim stavkom**;
 
@@ -242,11 +233,11 @@ Vejico pišemo:
 
 -   Sestavne dele priredij: *Ali bi sprejel tudi moj odgovor, ne vem; vem pa, da ga nisem utegnil napisati.*
 
--   Daljše priredne sestavine z vzporedno skladenjsko zgradbo; tudi pri naštevanju (alineje):\
-    [*Nenaglašeni i se v narečju rad izgubi:\
-    a) v nedoločniku: delat, nosti;\
-    b) v velelniku: nes, nos, pros, krož – nesmo, nosmo, prosmo, krožmo;\
-    c) v deležniku na -l (množina, moški spol): smo (ste, so) delal, prosil.*]{}
+-   Daljše priredne sestavine z vzporedno skladenjsko zgradbo; tudi pri naštevanju (alineje):
+    *Nenaglašeni i se v narečju rad izgubi:*
+    *a) v nedoločniku: delat, nosti;*
+    *b) v velelniku: nes, nos, pros, krož – nesmo, nosmo, prosmo, krožmo;*
+    *c) v deležniku na -l (množina, moški spol): smo (ste, so) delal, prosil.*
 
 -   Različne enorodne skupine naštevanega v istem sistemu: *Iz trgovine je prinesel: sladkor, moko, sol; kremo, zobno pasto, milo; baterijo, žarnico in varovalke.*
 

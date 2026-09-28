@@ -32,8 +32,8 @@
 - [ePravopis: Slovar slovenskega pravopisa
   2014--](http://www.fran.si/iskanje?FilteredDictionaryIds=135&View=1&Query=%2A)
 
-- [Pravopis 8.0: Pravila novega slovenskega pravopisa za javno
-  razpravo](https://www.fran.si/pravopis8)
+- [[Pravopis 8.0: Pravila novega slovenskega pravopisa za javno
+  razpravo](https://www.fran.si/pravopis8)]{.ann .ann-w .ann-rainbow data-note="izšel naj bi februarja 2027"}
 
 ::: center
 ![Svetovalnica](images/jezikovna_svetovalnica.png){width=80%}
