@@ -1,4 +1,17 @@
 # Slovenski pravopis
+
+## Seznam slovenskih pravopisov
+1. Fran Levec (1899): [*Slovenski pravopis*](https://www.dlib.si/details/URN:NBN:SI:DOC-WLZFZIH4). Na Dunaju: V cesarski kraljevi zalogi šolskih knjig.
+2. Anton Breznik (1920): [*Slovenski pravopis*](https://www.dlib.si/details/URN:NBN:SI:DOC-KMDWC7XX). V Ljubljani: Jugoslovanska knjigarna.
+3. Anton Breznik, Fran Ramovš (1935): [*Slovenski pravopis*](https://www.dlib.si/details/URN:NBN:SI:DOC-6CUND6RD). Ljubljana: Znanstveno društvo.
+4. Anton Breznik, Fran Ramovš (1937): *Slovenski pravopis*. V Ljubljani: Kraljevska banska uprava Dravske banovine. 
+5. SAZU (1950): [*Slovenski pravopis*](https://www.dlib.si/details/URN:NBN:SI:DOC-U2UFMRIW). Ljubljana: Državna založba Slovenije.
+6. SAZU (1962): [*Slovenski pravopis*](https://www.dlib.si/details/URN:NBN:SI:DOC-TGFJXHWI). Anton Bajec, Rudolf Kolarič, Lino Legiša, Janko Moder, Mirko Rupel, Anton Sovrè, Matej Šmalc, Jakob Šolar in France Tomšič (ur.). Ljubljana: Državna založba Slovenije.
+7. SAZU (2001): [*Slovenski pravopis*](https://www.fran.si/iskanje?FilteredDictionaryIds=134&View=1&Query=%2A). Jože Toporišič, Franc Jakopin, Janko Moder, Janez Dular,  Stane Suhadolnik, Janez Menart, Breda Pogorelec, Kajetan Gantar in Martin Ahlin (ur.).  Ljubljana: Založba ZRC, ZRC SAZU.
+8. SAZU (?): *Pravopis 8.0*. 
+
+Glej tudi portal [Slovenske slovnice in pravopisi: Portal slovenskih slovnic in pravopisov od 1584 do danes](https://www.fran.si/slovnice-in-pravopisi/)
+
 ## *Slovenski pravopis* 2001
 :::: {.columns}
 
